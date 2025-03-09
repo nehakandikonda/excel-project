@@ -11,3 +11,20 @@ Arabica and Excelsa are the top-selling coffee types, while Robusta sells less. 
 The data also points out that a small group of big spenders are responsible for most of the sales. Offering loyalty programs, discounts, and personalized marketing could keep these customers coming back. Segmenting customers based on what they buy helps businesses create offers that match their needs.
 
 To grow, businesses should focus on peak sales months, refine their product selection, and reach more customers with smart marketing. Using tools like predictive analytics and real-time dashboards can help businesses stay ahead of trends and make quicker, informed decisions.
+
+##The countries with the highest sales are:
+
+>United States
+>Ireland
+>United Kingdom
+These countries are key markets for businesses looking to expand and increase sales.
+
+
+
+
+
+
+
+
+
+
