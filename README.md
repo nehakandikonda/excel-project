@@ -1,4 +1,4 @@
-# excel-project
+# excel-project - conclusion :
 
 The coffee sales data was analyzed to uncover meaningful insights about sales trends, customer behavior, and country-wise performance. The findings help identify growth opportunities and strategic decision-making.
 
